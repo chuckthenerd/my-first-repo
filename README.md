@@ -25,4 +25,4 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://goo.gl/images/NUK0Ht)
+![This is an image.](https://upload.wikimedia.org/wikipedia/commons/f/fc/Karl_Marx.jpg)
