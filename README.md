@@ -1,28 +1,28 @@
-# This is a large heading
+# Charles Jaeger
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Raleigh, North Carolina.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- We Are Legion (We Are Bob) (Bobiverse Book 1) by Robert Taylor
+- Linked: How Everything Is Connected to Everything Else and What It Means for Business, Science, and Everyday Life 3/30/03 Edition
+by Albert-laszlo Barabasi 
+- Ready Player One: A Novel by Ernest Cline
+- Earthweb by Marc Stiegler
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Foods I enjoy:
 
-![This is an image.](https://upload.wikimedia.org/wikipedia/commons/f/fc/Karl_Marx.jpg)
+0. Bacon
+1. Chimichanga
+2. German Chocolate Cake
+
+### 
+### Contact
+
+The preferred way to reach me if finding my information on the internet is [on Twitter](https://twitter.com/ChuckTheNerd)
